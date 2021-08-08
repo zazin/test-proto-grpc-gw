@@ -1,0 +1,9 @@
+protoc version 3.13.0
+https://github.com/protocolbuffers/protobuf/releases/tag/v3.13.0
+
+protoc-gen-go
+go get -u github.com/golang/protobuf/protoc-gen-go@v1.3.2
+
+go get -u google.golang.org/grpc@v1.26.0
+
+go get -u github.com/grpc-ecosystem/grpc-gateway@v1.9.5
